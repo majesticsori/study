@@ -2,7 +2,7 @@ package com.soris.study.algorithm;
 
 /**
  * 합계
- * 반복문을 돌면서 sum이라는 변수에 score[i]에 들어 있는 값을 누적!
+ * 반복문을 돌면서 sum 이라는 변수에 score[i]에 들어 있는 값을 누적!
  * @author 이솔
  * @since 2013. 6. 3.
  */
